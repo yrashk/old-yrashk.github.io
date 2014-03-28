@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/yrashk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://rashkovskii.com
+  * I am yrashk (https://keybase.io/yrashk) on keybase.
+  * I have a public key with fingerprint 7AE1 96E3 F604 D870 22EF  7B70 B23A 6D8C 00A9 65A7
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "7ae196e3f604d87022ef7b70b23a6d8c00a965a7",
+            "host": "keybase.io",
+            "key_id": "b23a6d8c00a965a7",
+            "uid": "808a7b726471d3edeab78d18a73b0e00",
+            "username": "yrashk"
+        },
+        "service": {
+            "hostname": "rashkovskii.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396026935,
+    "expire_in": 157680000,
+    "prev": "2f8c0f59f98a61471e7c5a62cf0cc40a6d2c8709885e2e691ad920197979b89b",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMHnAnicbVFfSBRbGN/VynKTlNCXCLyjhaHZmdmdfytEplhaD1tWWLgtZ2bO7E5e
+Z3Znxm2XTUGI5IZShIlmBWUGWhgqohfcWKRCu0TRH30ITAmKQFHug76YeWaxt+Y8
+HOb37zvf973ISLWl2yMX3va1Tr0atP+X+L/BVk0PsDFC0KQo4Y4RdSh5yYrqR3pQ
+V1STcBMsRCTPIKfMAJfEsYCikMwKLBAoJ2QkTgQA8gwNWaKICGiG5cAxAjRQsaJh
+DP/4FAmjf9A3JAkOcBAHUoyLJSUnkhAUWE4iMegUAALAEhpIV2E9wuqoDo1AHdFY
+RGAsrIgYiyULb/JJWgsbdYpSLGr12BzUNVMTtb8xGTDNoNvymtGgJb6MBN9mjE9Q
+VAk3jg1hpBuKphJuEitFU7FySSfPAIrhnXQRgSJBRUc+xVLQLMMB/FllUBhHUjJu
+UaZ5mecgQ+KWECvSkKFEGYiiC+ARUCKeIs9xNKIQw5NQ4ilA8iw+AscLuL6BQqpG
+uJ34mdCPIw3Fr0KzQUdE40SidovNnm7btjXFWp0tfUfm74UWdqX9Kvs5Cz5Pr2b2
+31+emB9aPzQ9+agirxK1LHQ4zlc5bg5/lVM6P5a1UUsJc1j3rq+eaK+qpRePjcQf
+tH/JWyELe2ODlbc/jI5f27fqCV0PZXnfrM8tNBn/XtKfv9wTW5sIdbf0VQ8sLpW6
+Pf8Ye9eWs/L/Mt/NCEdL53ObtrfdK7kSV0OJro7KnLGDPwrmDky57JHU6VNj5Z9M
+W/MI74u3ezx3v1EXz9n5x5FbK0PHu4PhZ0zPsHdna0m2PS3Ys59pntnlmMsv99U8
+rejwxydHvXcySuqjT97nmt+vOrLOFowfyem39XX2tvmEw1WzNWlnXu/OfnjjdOTk
+oLSgBjYAsgIUJQ==
+=x5YA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yrashk
+
+==================================================================
+
